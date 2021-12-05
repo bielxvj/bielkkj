@@ -10,9 +10,12 @@ Você pode clicar no link Visualizar para ver as alterações.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielkkj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+  
 
-<br><br>
+  ![Snake animation](https://github.com/bielkkj/bielkkj/blob/output/github-contribution-grid-snake.svg)
+ </div>
+
+  ##
 
 **Coding In:**
 
@@ -41,7 +44,6 @@ Você pode clicar no link Visualizar para ver as alterações.
 </a>
 </p>
 
-![Snake animation](https://github.com/bielkkj/bielkkj/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
