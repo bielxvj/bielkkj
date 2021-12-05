@@ -19,7 +19,7 @@ Você pode clicar no link Visualizar para ver as alterações.
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Biel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/icons/906218995684892743/7ad9b50bc6aed832aa5808dd51f678f2.png?size=4096">
+
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
