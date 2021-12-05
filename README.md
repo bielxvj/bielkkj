@@ -8,7 +8,7 @@ Você pode clicar no link Visualizar para ver as alterações.
 --->
 <div align="center">
   <a href="https://github.com/bielkkj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielkkj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielkkj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -19,8 +19,14 @@ Você pode clicar no link Visualizar para ver as alterações.
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Biel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+ <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/896905642856579144/916926107654193165/5c4694342840ac6a1493885b8f4c9bf7.png">
 </div>
+  
+  ##
+ 
+<div> 
+
+ <a href="https://discord.gg/tdn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
