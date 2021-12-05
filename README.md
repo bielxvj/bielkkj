@@ -23,7 +23,7 @@ Você pode clicar no link Visualizar para ver as alterações.
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/896905642856579144/916926107654193165/5c4694342840ac6a1493885b8f4c9bf7.png">
+<img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/896905683008639006/916949717475278848/77d46269aad3b76b10e0d8a1098e9831.png">
 </div>
 
 
