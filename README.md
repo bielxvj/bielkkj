@@ -33,7 +33,7 @@ Você pode clicar no link Visualizar para ver as alterações.
 
 <p align="center" style="background:yellow">
 <a href="https://discord.gg/tdn" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-bielkkj#0013-05122A?style=flat&logo=discord" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-bielkkj0013-05122A?style=flat&logo=discord" alt="twitter"/>  
 </a>
 <a href="https://twitter.com/bielxkkj" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-bielxkkj-05122A?style=flat&logo=twitter" alt="twitter"/>  
