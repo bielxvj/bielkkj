@@ -36,10 +36,10 @@ Você pode clicar no link Visualizar para ver as alterações.
   <img align="center" src="https://img.shields.io/badge/-bielkkj0013-05122A?style=flat&logo=discord" alt="twitter"/>  
 </a>
 <a href="https://twitter.com/bielxvj" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-bielxkkj-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-bielxvj-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://instagram.com/bielxvj" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ftp.biel-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-bielxvj-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
