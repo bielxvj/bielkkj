@@ -23,7 +23,7 @@ Você pode clicar no link Visualizar para ver as alterações.
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/896905683008639006/916949717475278848/77d46269aad3b76b10e0d8a1098e9831.png">
+<img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg">
 </div>
 
 
@@ -33,7 +33,7 @@ Você pode clicar no link Visualizar para ver as alterações.
 
 <p align="center" style="background:yellow">
 <a href="https://discord.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-bielkkj0013-05122A?style=flat&logo=discord" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-bielxvj-05122A?style=flat&logo=discord" alt="twitter"/>  
 </a>
 <a href="https://twitter.com/bielxvj" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-bielxvj-05122A?style=flat&logo=twitter" alt="twitter"/>  
